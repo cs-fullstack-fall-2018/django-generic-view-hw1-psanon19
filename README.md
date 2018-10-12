@@ -1,0 +1,1 @@
+# django-generic_view-hw1
